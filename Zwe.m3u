@@ -2,10 +2,10 @@
     "name": "TOFFEE Sports VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "origin": "bldcmprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1724242013:KeyName=prod_linear:Signature=NbBPu9cZw3v4xEwVh3mSgrwmksclLivJWCtNGD0nLJ0hbXPptK0-f-6vnhz0J2-_uI7Z6VtjNZc9qjrqy30vAA",
     "drmScheme": "",
     "drmLicense": ""
-  }
+  },
