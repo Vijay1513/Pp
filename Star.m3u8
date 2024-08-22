@@ -2,6 +2,6 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:1,BANDWIDTH=100000,AVERAGE-BANDWIDTH=1832066,RESOLUTION=SONY,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-http://hdserver.7starcloud.com:1935/polimer/live/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/JV_SportsHD15_DIG_MOB-audio_33636_eng=33600-video=176400.m3u8
 #EXT-X-STREAM-INF:1,BANDWIDTH=100000,AVERAGE-BANDWIDTH=1832066,RESOLUTION=SONY,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-http://7starcloud.com:1935/live/7star/index.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/JV_SportsHD15_DIG_MOB-audio_98835_eng=98800-video=560800.m3u8
