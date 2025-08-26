@@ -1,20 +1,20 @@
-#EXTINF:0, group-title="Tamil",tamilaaram
-https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-chorigin/live/ThamilaaramTV/index_sess113748291.m3u8
+#EXTINF:0, group-title="Tamil",sirippoli
+https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
 #EXTINF:0, group-title="Tamil",Sky Cricket
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 #EXTINF:0, group-title="Tamil",fox501
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTINF:0, group-title="Tamil",RCN
 https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=h4728wk7
-#EXTINF:0, group-title="Tamil",vidiyaltv
-https://account11.livebox.co.in/vidyaltvhls/live.m3u8
-#EXTINF:0, group-title="Tamil",ashokatv
-https://ipcloud.live/asokatv/asokahd/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Tamil",TEN1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:0, group-title="Tamil",Ten2
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:0, group-title="Tamil",aadvik
 http://ipcloud.live:8080/sachintv/aadviktv/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Tamil",skycric
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
-#EXTINF:0, group-title="Tamil",4kmax
+#EXTINF:0, group-title="Tamil",Ten4
 http://198.144.149.206:8080/NOTV/YAALTV/tracks-v1a1/mono.ts.m3u8?token=GTR
 #EXTINF:0, group-title="Tamil",comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/chunklist_w77784749.m3u8
