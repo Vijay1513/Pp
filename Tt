@@ -1,5 +1,7 @@
 #EXTINF:0, group-title="Tamil",sirippoli
 https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
+#EXTINF:0, group-title="Tamil",,Ws
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|User-Agent=Denver1769&drmScheme=clearkey&drmLicense=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
 #EXTINF:0, group-title="Tamil",Sky Cricket
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 #EXTINF:0, group-title="Tamil",fox501
@@ -14,12 +16,26 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 http://ipcloud.live:8080/sachintv/aadviktv/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Tamil",skycric
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
-#EXTINF:0, group-title="Tamil",Ten4
-http://198.144.149.206:8080/NOTV/YAALTV/tracks-v1a1/mono.ts.m3u8?token=GTR
+#EXTINF:0, group-title="Tamil",Ten3
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:0, group-title="Tamil",ten4
+https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
+#EXTINF:0, group-title="Tamil",ten4hd
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:0, group-title="Tamil",bbc earth
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#EXTINF:0, group-title="Tamil",pix
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+
 #EXTINF:0, group-title="Tamil",comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/chunklist_w77784749.m3u8
 #EXTINF:0, group-title="Tamil",sonysix
 https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
+
+#EXTINF:0, group-title="Tamil", suncinema
+https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
 
 
 ×××××××××××××× TIMES PLAY ×××××××××××××××××
@@ -96,3 +112,15 @@ https://fsl.fastcloud.lol/Thalaivan.Thalaivii.2025.1080p.10Bit.HEVC.WEB-DL.Hindi
 
 #EXTINF:0, group-title="Tamil",mania
 https://pixeldrain.net/api/file/EzfjoAWL?download
+
+#EXTINF:0, group-title="Tamil",gevi
+http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2025/Gevi.2025.Tamil.WEBDL.1080p.AVC.UNTOUCHED.DD5.1.192Kbps.AAC.3.2GB.ESub.mkv
+
+#EXTINF:0, group-title="Tamil",ge
+https://dl2.hotshare.click/Moviesda.Mobi_-_Gevi_2025_Original_1080p_HD.mp4
+
+#EXTINF:0, group-title="Tamil",king
+https://cdn.fsl-buckets.life/Kingdom.AKA.Saamrajya.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.ESub.x264-HDHub4u.Ms.mkv?token=d089114f717ec7c755e3892b95b5e94b_1756291215_11
+
+#EXTINF:0, group-title="Tamil",poli
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756380564/ei/NOmvaN7xKP2V1d8P24Hs0AQ/ip/2409%3A40f4%3A3012%3A3f41%3A8000%3A0%3A0%3A0/id/FKcL0J3jb4o.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539853/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/bui/AY1jyLMiViLKAhS_5_4SRT9Sem9MrnKPMl-pmAMau-X0-pmmRcw5C1QW5TAbFyyT3G6ixzMGJ7OCpGvR/spc/l3OVKdCdcpwutUsWqm_O8io691S8G615uDsgW2YuTgLQ-vIAhqQjgDA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOPCjG2Z-5F6XEc4cte9AhHzd7If1ctFx1RmwKuYz7q5AiAQq-7u1cwnZJev422PMftpqnnxpyJBpPFJANxgOZJULA%3D%3D/file/index.m3u8
