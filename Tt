@@ -1,7 +1,5 @@
 #EXTINF:0, group-title="Tamil",sirippoli
 https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
-#EXTINF:0, group-title="Tamil",,Ws
-https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|User-Agent=Denver1769&drmScheme=clearkey&drmLicense=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
 #EXTINF:0, group-title="Tamil",Sky Cricket
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 #EXTINF:0, group-title="Tamil",fox501
@@ -9,29 +7,29 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTINF:0, group-title="Tamil",RCN
 https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=h4728wk7
 #EXTINF:0, group-title="Tamil",TEN1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",Ten2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",aadvik
 http://ipcloud.live:8080/sachintv/aadviktv/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Tamil",skycric
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 #EXTINF:0, group-title="Tamil",Ten3
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",ten4
-https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",ten4hd
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",bbc earth
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",pix
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",sonysix
+https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8
 
 #EXTINF:0, group-title="Tamil",comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/chunklist_w77784749.m3u8
-#EXTINF:0, group-title="Tamil",sonysix
-https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
+
 
 #EXTINF:0, group-title="Tamil", suncinema
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
@@ -44,6 +42,12 @@ https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports", willow sportss
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779C27B9D077A3BA0C9CC1BB9A94B9F:CC5CF3B7928FB9E0A1EE6A8B566F0A8E
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 ×××××××××××××× TIMES PLAY ×××××××××××××××××
 
 #EXTM3U
@@ -89,12 +93,21 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports", TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="Sports", TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",USA network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+
 
 #EXTINF:0, group-title="Tamil",Sita ramam
 https://d3sgzbosmwirao.cloudfront.net/video/bfd61529b03dd92990d2ce3728062de389d388d14656c1f83085f2bec0e0ab79/2/hls/h264_high.m3u8
