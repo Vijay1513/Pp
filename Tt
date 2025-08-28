@@ -108,44 +108,13 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fancode
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:0, group-title="Tamil",Sita ramam
-https://d3sgzbosmwirao.cloudfront.net/video/bfd61529b03dd92990d2ce3728062de389d388d14656c1f83085f2bec0e0ab79/2/hls/h264_high.m3u8
-
-#EXTINF:0, group-title="Tamil",cap
-https://d3sgzbosmwirao.cloudfront.net/video/d2c833dd00fc2ee04e1781c997827fb3/1/hls/h264_high.m3u8
-
-#EXTINF:0, group-title="Tamil",soorarai
-https://d3s0ximcru5bdx.cloudfront.net/SPTAM_GL_2020-Full-Mezz_UHD-ta-IN-R2-1735836766588/cmaf/H_264/SPTAM_GL_2020-Full-Mezz_UHD-ta-IN-R2/2dent-2D_SPTAM_GL_2020-Full-Mezz_UHD-ta-IN-R2.m3u8
-
-
-#EXTINF:0, group-title="Tamil",muthu
-http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/1995/Muthu.1995.Tamil.HQ.BluRay.1080p.x264.DTS5.1.768Kbps.AAC.3.6GB.mkv
-
-#EXTINF:0, group-title="Tamil",thalaivan
-http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2025/Thalaivan.Thalaivii.2025.WEBDL.1080p.HQ.AVC.Tamil.Telugu.Hindi.DD5.1.640Kbps.AAC.6.4GB.ESub.mkv
-
-#EXTINF:0, group-title="Tamil",maaresan
-http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2025/Maareesan.2025.TRUE.WEBDL.1080p.AVC.Tam.Tel.Kan.DD5.1.640Kbps.AAC.4.4GB.ESub.mkv
-
-
-#EXTINF:0, group-title="Tamil",maa
-https://fsl.fastcloud.lol/Maareesan.2025.1080p.HEVC.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x265-HDHub4u.Ms.mkv?token=1756189562
-
-#EXTINF:0, group-title="Tamil",thal
-https://fsl.fastcloud.lol/Thalaivan.Thalaivii.2025.1080p.10Bit.HEVC.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x265-HDHub4u.Ms.mkv?token=1756189307
-
-#EXTINF:0, group-title="Tamil",mania
-https://pixeldrain.net/api/file/EzfjoAWL?download
-
-#EXTINF:0, group-title="Tamil",gevi
-http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2025/Gevi.2025.Tamil.WEBDL.1080p.AVC.UNTOUCHED.DD5.1.192Kbps.AAC.3.2GB.ESub.mkv
-
-#EXTINF:0, group-title="Tamil",ge
-https://dl2.hotshare.click/Moviesda.Mobi_-_Gevi_2025_Original_1080p_HD.mp4
-
-#EXTINF:0, group-title="Tamil",king
-https://cdn.fsl-buckets.life/Kingdom.AKA.Saamrajya.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.ESub.x264-HDHub4u.Ms.mkv?token=d089114f717ec7c755e3892b95b5e94b_1756291215_11
 
 #EXTINF:0, group-title="Tamil",poli
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756380564/ei/NOmvaN7xKP2V1d8P24Hs0AQ/ip/2409%3A40f4%3A3012%3A3f41%3A8000%3A0%3A0%3A0/id/FKcL0J3jb4o.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539853/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/bui/AY1jyLMiViLKAhS_5_4SRT9Sem9MrnKPMl-pmAMau-X0-pmmRcw5C1QW5TAbFyyT3G6ixzMGJ7OCpGvR/spc/l3OVKdCdcpwutUsWqm_O8io691S8G615uDsgW2YuTgLQ-vIAhqQjgDA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOPCjG2Z-5F6XEc4cte9AhHzd7If1ctFx1RmwKuYz7q5AiAQq-7u1cwnZJev422PMftpqnnxpyJBpPFJANxgOZJULA%3D%3D/file/index.m3u8
