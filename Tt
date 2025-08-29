@@ -1,3 +1,5 @@
+#EXTINF:0, group-title="Tamil",sl vs zim
+https://dai.fancode.com/primary/133665_english_hls_1f64ecae8b33591adfreeta-di_h264/1080p.m3u8
 #EXTINF:0, group-title="Tamil",sirippoli
 https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
 #EXTINF:0, group-title="Tamil",Sky Cricket
@@ -35,6 +37,8 @@ http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/chunklist_w77784749
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
 
 
+#EXTINF:0, group-title="Tamil",Tsports
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports", willow sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
