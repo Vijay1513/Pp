@@ -1,7 +1,7 @@
 #EXTINF:0, group-title="Tamil",sl vs zim
-https://dai.fancode.com/primary/133665_english_hls_1f64ecae8b33591adfreeta-di_h264/1080p.m3u8
+https://dai.fancode.com/primary/132363_english_hls_200c34629464250ta-di_h264/index.m3u8
 #EXTINF:0, group-title="Tamil",hockey
-https://sonydaimenew.akamaized.net/hls/live/2118981/HeroAs2908/ENG/std_mdh-800300010.m3u8?hdnea=st=1756454193~exp=1756454493~acl=*~id=8e025b1e-4cde-421c-a3d5-65efc665fc43~hmac=d955644b34efbcb8a87566e3899c125317b60e8e00de980f5b7025314b51582f&
+https://invidious.f5.si/api/manifest/hls_variant/expire/1756679314/ei/Mni0aIf4L9Px29gP9amd0AQ/ip/116.82.239.43/id/HuhgeaxRl0Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/jp/ss/1/ssa/1/bui/AY1jyLObnEj9HIXNxQ2GEkNHUI7pkXzeWK_kJd0EBxP0f8ssItfIjyg-Y44nMD8mnIDnj6UfpzSX_I5M/spc/l3OVKQ8F0uyjwKwhrUGHGe3Ji6-b4jjGLlY9HMC_kWfAEFoRGdTou_WOb5WkczqP3RM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANHExYuyOok3C-4-i862WbNiWzQ3ECBFdFeZreLM5X0pAiBpJaztqgTQy-QMIHgmJIGit0g2C3_cpQi_8QhjgM_AVg%3D%3D/file/index.m3u8?local=true
 
 #EXTINF:0, group-title="Tamil",sirippoli
 https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
