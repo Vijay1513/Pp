@@ -1,11 +1,24 @@
-#EXTINF:0, group-title="Tamil",ban vs net
-https://dai.fancode.com/primary/135850_english_hls_a20ac846ae4348ta-di_h264/index.m3u8
-#EXTINF:0, group-title="Tamil",hockey
-https://invidious.f5.si/api/manifest/hls_variant/expire/1756750458/ei/Go61aPvUL6i4pt8Pt6jNqQk/ip/223.135.47.109/id/KaXHoO0-MoI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/jp/bui/AY1jyLMTiQhmErYlCqXmeTCwP2sBdJlIxxYufFnY5SAc1OUJx2NHgDB19pyd7vhZ8BlU2cXCsgUlZHKd/spc/l3OVKc_OZO-VvnX_xz51NrDjMatflrYOjMj7l4Sxings--DodE8UjFyCKNxkgLW4-Kc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJIleVImnLOj047FPGsUTaeTlqSRkK4wh6i__NzdVEbsCIHVitl2zSoro4g1bJEMd7oYtha0wRUP-KezTf25bmdcL/file/index.m3u8?local=true
-#EXTINF:0, group-title="Tamil",bann
-https://invidious.f5.si/api/manifest/hls_playlist/expire/1756750458/ei/Go61aPvUL6i4pt8Pt6jNqQk/ip/223.135.47.109/id/KaXHoO0-MoI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-oguelney.c.youtube.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/jp/bui/AY1jyLMTiQhmErYlCqXmeTCwP2sBdJlIxxYufFnY5SAc1OUJx2NHgDB19pyd7vhZ8BlU2cXCsgUlZHKd/spc/l3OVKc_OZO-VvnX_xz51NrDjMatflrYOjMj7l4Sxings--DodE8UjFyCKNxkgLW4-Kc/vprv/1/playlist_type/DVR/initcwndbps/1351250/met/1756728863,/mh/cS/mm/32/mn/sn-oguelney/ms/su/mv/m/mvi/1/pl/16/rms/su,su/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/mt/1756728580/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgW-0LZBXiONkCilct-1lvfwVWhaLelNHMBlPgd5cKrXUCIQClwenCxjLded2DgdPk205PibgpMWvQQEMjnLsoBm8Ebw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms,sc/lsig/APaTxxMwRQIgT34xYTCestpeGCqHXSkjasl9MP7TLJbfgjyedjenOKMCIQDnAmV-QS5Upumb-sumZM1zkPrZ23k-GT6jGsVPe0J39A%3D%3D/playlist/index.m3u8?local=true
-#EXTINF:0, group-title="Tamil",sun
-https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fancode
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fancode 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:0, group-title="Tamil",live1
+
+#EXTINF:0, group-title="Tamil",live2
+
+#EXTINF:0, group-title="Tamil",live3
+
+#EXTINF:0, group-title="Tamil",live 4
 
 #EXTINF:0, group-title="Tamil",sirippoli
 https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
@@ -13,28 +26,30 @@ https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 #EXTINF:0, group-title="Tamil",fox501
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+#EXTINF:0, group-title="Tamil",aadvik
+http://ipcloud.live:8080/sachintv/aadviktv/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Tamil",skycric
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 #EXTINF:0, group-title="Tamil",RCN
 https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=h4728wk7
 #EXTINF:0, group-title="Tamil",TEN1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",Ten2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8
-#EXTINF:0, group-title="Tamil",aadvik
-http://ipcloud.live:8080/sachintv/aadviktv/tracks-v1a1/mono.m3u8
-#EXTINF:0, group-title="Tamil",skycric
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
+
 #EXTINF:0, group-title="Tamil",Ten3
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",ten4
 https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",ten4hd
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",sonysix
+https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8
+
 #EXTINF:0, group-title="Tamil",bbc earth
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",pix
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master_3500.m3u8
-#EXTINF:0, group-title="Tamil",sonysix
-https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8
 
 #EXTINF:0, group-title="Tamil",comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/chunklist_w77784749.m3u8
@@ -61,27 +76,6 @@ https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww
 https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 ×××××××××××××× TIMES PLAY ×××××××××××××××××
 
-#EXTM3U
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="Times play", Romedy Now
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Times play", MN+
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Times play", MNX HD
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play", Movies Now
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="Sports", TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -119,12 +113,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fancode
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
 
 
 #EXTINF:0, group-title="Tamil",poli
