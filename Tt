@@ -12,6 +12,60 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+
+#EXTINF:0, group-title="Tamil",news tamil 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+
+#EXTINF:0, group-title="Tamil",MK six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+
+
+#EXTINF:0, group-title="Tamil",Raj
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+
+#EXTINF:0, group-title="Tamil",RAJ digital
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+
+#EXTINF:0, group-title="Tamil",RAJ musix
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+
+#EXTINF:0, group-title="Tamil",raja
+http://brightmeltech.in/rajatv/rajatv.m3u8
+
+#EXTINF:0, group-title="Tamil",ktv
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/6693/index.m3u8
+
+#EXTINF:0, group-title="Tamil",eyetv
+https://novaiptv.cc/live/eyetamil/4257832/32fa2542-142d-48e5-86ad-fc98be0e9e5f.m3u8
+
+#EXTINF:0, group-title="Tamil",sanaplus
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:0, group-title="Tamil",sana
+https://galaxyott.live/hls/sanatv.m3u8
+
+#EXTINF:0, group-title="Tamil",rktv
+https://allchannels.in/rktv/video.m3u8
+
+
+#EXTINF:0, group-title="Tamil",apple tv
+http://applelive.in:80/appletv/appletv.m3u8
+
+#EXTINF:0, group-title="Tamil",paavai
+https://ipcloud.live/paavai/live/index.m3u8
+
+#EXTINF:0, group-title="Tamil",minnal
+https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
+
+#EXTINF:0, group-title="Tamil",apple4
+https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
+
+#EXTINF:0, group-title="Tamil",nila
+https://live.olidigital.in/nilatv/nilatv/index.m3u8
+
+
+
+
 #EXTINF:0, group-title="Tamil",live1
 
 #EXTINF:0, group-title="Tamil",live2
@@ -116,8 +170,10 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 
 
 
-#EXTINF:0, group-title="Tamil",poli
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756380564/ei/NOmvaN7xKP2V1d8P24Hs0AQ/ip/2409%3A40f4%3A3012%3A3f41%3A8000%3A0%3A0%3A0/id/FKcL0J3jb4o.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539853/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/bui/AY1jyLMiViLKAhS_5_4SRT9Sem9MrnKPMl-pmAMau-X0-pmmRcw5C1QW5TAbFyyT3G6ixzMGJ7OCpGvR/spc/l3OVKdCdcpwutUsWqm_O8io691S8G615uDsgW2YuTgLQ-vIAhqQjgDA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOPCjG2Z-5F6XEc4cte9AhHzd7If1ctFx1RmwKuYz7q5AiAQq-7u1cwnZJev422PMftpqnnxpyJBpPFJANxgOZJULA%3D%3D/file/index.m3u8
+#EXTINF:0, group-title="Tamil"ntt
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757794918/ei/Bn7FaKXJI6GQvcAP4bufoQ8/ip/2409%3A40f4%3A3110%3A45df%3A8000%3A0%3A0%3A0/id/gynWNinqmjw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51576333/txs/51576330%2C51576331%2C51576332%2C51576333%2C51576334/hfr/1/playlist_duration/30/manifest_duration/30/bui/ATw7iSV44Weru77wBl8NIDFeHWEEYSEYRfwbs5ogTe6IFk1N-OmTbepbRB3vKFaDO9k29isATj-ojuIY/spc/hcYD5X5vsQEKYfvLITMHZWzsipMYVouG4ok9aUvR2sd56jhVyV0THi8axrqz11G3u0kDfA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM2286YBOiWtmmak35xrlb9FUlr8TzNLhPASpLDiCr4lAiAMQF7tFKuKP-FRHjp-Qjt6dxLlSPeMnjOs-PQsdVsv9w%3D%3D/file/index.m3u8
+
+#EXTINF:0, group-title="Tamil",live1
 
 #EXTINF:0, group-title="Tamil",nt
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756382926/ei/bvKvaMCTAbOR77APn63MoQw/ip/2409%3A40f4%3A3003%3Af58%3A8000%3A0%3A0%3A0/id/gynWNinqmjw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539853/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/bui/AY1jyLPH0mTjFY9LHgGHkemXiqiD0CI1nKK4EKc9Um9c21KpKaHvCSXDj6Xc-fZejYzvY-Wl8wkGTHwP/spc/l3OVKTn_Tdao-cwZKFNyJ5JNzAjfpIe7tjmE_n1gfkDUiBuzZ73ZWhw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgehBGamrtB1T_c6vc_BK5UZ97BAY1uwbUiTM2L1BfmG0CIQCt7_cTFv5Y6HwAOS0HUfwzcD9xzov0asxLJVlh823aug%3D%3D/file/index.m3u8
