@@ -76,6 +76,7 @@ https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=175
 https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1758125700~acl=%2f*~id=384998c1-7882-425c-a943-5ad8f5f569ab~data=hdntl~hmac=9a2a1defd19b93738818ae8a217c57b96d3343571a4f83891fb6f851ba1d2e91/master_1300.m3u8
 
 #EXTINF:0, group-title="Tamil",live 4
+https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
 
 #EXTINF:0, group-title="Tamil",sirippoli
 https://segment.yuppcdn.net:443/240122/siripoli/240122/siripoli_1800/chunks.m3u8
