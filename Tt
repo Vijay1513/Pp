@@ -1,3 +1,16 @@
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", FOX SPORTS 501
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?%7CdrmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", CRICLIFE 1
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd?%7CdrmScheme=clearkey&drmLicense=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", CRICLIFE 2
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd?%7CdrmScheme=clearkey&drmLicense=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", CRICLIFE MAX
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd?%7CdrmScheme=clearkey&drmLicense=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fancode
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -96,18 +109,18 @@ https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master_3500.m3u8
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8
 
 #EXTINF:0, group-title="Tamil",Ten3
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",ten4
-https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master_3500.m3u8
+https://dish.slivcdn.com/hls/live/2020437/ten4sd/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",ten4hd
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master_3500.m3u8
+https://dish.slivcdn.com/hls/live/2020589/ten4hd/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",sonysix
-https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8
+https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8
 
 #EXTINF:0, group-title="Tamil",bbc earth
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master_3500.m3u8
+https://dish.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",pix
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master_3500.m3u8
+https://dish.slivcdn.com/hls/live/2011748/PIXHD/master_3500.m3u8
 
 #EXTINF:0, group-title="Tamil",comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/chunklist_w77784749.m3u8
