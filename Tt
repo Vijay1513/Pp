@@ -104,9 +104,9 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/9258/index.m3u8
 #EXTINF:0, group-title="Tamil",RCN
 https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=h4728wk7
 #EXTINF:0, group-title="Tamil",TEN1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master_3500.m3u8
+https://dish.slivcdn.com//hls/live/2011747/TEN1HD/master_3500.m3u8
 #EXTINF:0, group-title="Tamil",Ten2
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8
+https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_3500.m3u8
 
 #EXTINF:0, group-title="Tamil",Ten3
 https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_3500.m3u8
