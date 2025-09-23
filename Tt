@@ -9,7 +9,12 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd?%7
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", CRICLIFE MAX
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd?%7CdrmScheme=clearkey&drmLicense=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",astro
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://proxy.mydementiacompanion.com.au/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fancode
 #KODIPROP:inputstreamaddon=inputstream.adaptive
