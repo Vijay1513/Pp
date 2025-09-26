@@ -98,7 +98,7 @@ https://live.olidigital.in/nilatv/nilatv/index.m3u8
 
 
 #EXTINF:0, group-title="Tamil",live1
-https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1758125700~acl=%2f*~id=384998c1-7882-425c-a943-5ad8f5f569ab~data=hdntl~hmac=9a2a1defd19b93738818ae8a217c57b96d3343571a4f83891fb6f851ba1d2e91/master_3500.m3u8
+https://dj-tm-srvr1.vercel.app/title/WILLOW-LIVE(AMZN)@DJ-TM.mpd?data=BcFbD0MwFADgH-QBc9se9tAowRyjaFZvNj2NNhLJXPbz9313Tu3IqP7ay2kQxXJ6JMq9l5wxkCDB-AiZmqrl2GZtxLHGxld1UWIiYgwz_Yb68jjGlLJU3rTL6y4LxVnhqIMWyIYBoexkrW0xZXn21_3sT-5MvxzK3e184ANxQkabqtk4Nola2z8|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Ur8XMO1S9MSgooizIPiDCu8igMT6vIiUoryHHS93DPiTTPzXLXD0zP8nNMKnCOCC_xCMjyzg_0NE7LMU4yiAAA
 
 #EXTINF:0, group-title="Tamil",live2
 https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1758125700~acl=%2f*~id=384998c1-7882-425c-a943-5ad8f5f569ab~data=hdntl~hmac=9a2a1defd19b93738818ae8a217c57b96d3343571a4f83891fb6f851ba1d2e91/master_2000.m3u8
