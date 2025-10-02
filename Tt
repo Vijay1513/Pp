@@ -9,6 +9,22 @@ https://livecf.fancode.com/136749_english_hls_f35067c8ca55201ta-di_h264/index.m3
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",willoww
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a92ec98f2c385644c002de9d9caacac:0eac212ca30fb1762e2214f6e876bdf1
+https://a112aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/10n1hyurhz/out/v1/2de6ff093a0b405abd1e0278df5adb89/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",wc
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
+https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", FOX SPORTS 501
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?%7CdrmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
 
