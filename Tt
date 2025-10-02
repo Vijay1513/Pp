@@ -5,8 +5,8 @@ https://livecf.fancode.com/136749_english_hls_f35067c8ca55201ta-di_h264/index.m3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Ur8XMO1S9MSgooizIPiDCu8igMT6vIiUoryHHS93DPiTTPzXLXD0zP8nNMKnCOCC_xCMjyzg_0NE7LMU4yiAAA
-https://dj-tm-srvr1.vercel.app/title/WILLOW-LIVE(AMZN)@DJ-TM.mpd?data=BcFbD0MwFADgH-QBc9se9tAowRyjaFZvNj2NNhLJXPbz9313Tu3IqP7ay2kQxXJ6JMq9l5wxkCDB-AiZmqrl2GZtxLHGxld1UWIiYgwz_Yb68jjGlLJU3rTL6y4LxVnhqIMWyIYBoexkrW0xZXn21_3sT-5MvxzK3e184ANxQkabqtk4Nola2z8|Telegram=@links_macha_official&Creator=@DJ-TM
+#KODIPROP:inputstream.adaptive.license_key=23d746c8864079a0fbe3e917614ce9a4:6c11aeb5174dfeb6acd1c92a58e012a6
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bb9z4rise6/out/v1/f88e764102cb43a69031373b79dc31fd/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", FOX SPORTS 501
