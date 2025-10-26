@@ -1,3 +1,32 @@
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/C8sfp/4BWmNtOfO21ICavkg.jpeg" group-title="Sports" , TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports1
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports1/master.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/RpJ0r/Dgqx8YbLOdTG7nojg.jpeg" group-title="Sports" , TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports2
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports2/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/tSQZO/bVb6jjNdk4RHZKa4Q.jpeg" group-title="Sports" , TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports3
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports3/master.mpd
+
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/aosX2/IjJkqqzIF21ujBCNg.jpeg" group-title="Sports" , TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports4
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports4/master.mpd
 
 #EXTINF:-1 tvg-id="10577" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp" group-title="Regional Channels", DD TAMIL
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
