@@ -1,3 +1,4 @@
+
 #EXTINF:-1 tvg-id="10577" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp" group-title="Regional Channels", DD TAMIL
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
@@ -230,6 +231,23 @@ https://ipcloud.live/paavai/live/index.m3u8
 
 #EXTINF:0, group-title="Tamil",minnal
 https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
+
+#EXTINF:0, group-title="Tamil",roja1
+https://stream.rojatv.cloud/rojatv/rojatv/index.mpd
+
+#EXTINF:0, group-title="Tamil",roja2
+https://live.rojatv.cloud/rojatv/rojatv/index.mpd
+
+#EXTINF:0, group-title="Tamil",vani
+https://live.sscloud7.in/live/vanitvhd/index.mpd
+
+#EXTINF:0, group-title="Tamil",anandham
+https://live1.sscloud7.com/live/anandhamtv/index.m3u8
+
+#EXTINF:0, group-title="Tamil",anandham2
+https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd
+
+
 
 #EXTINF:0, group-title="Tamil",apple4
 https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
