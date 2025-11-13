@@ -44,6 +44,13 @@ https://dishmt.slivcdn.com/hls/live/2011906-b/SonyWah/hdntl=exp=1763083281~acl=%
 #EXTINF:0, group-title="Tamil",aath
 https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
 
+#EXTINF:-1 tvg-id="tamil2" group-title="Jiostar" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png",Star Vijay super hd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1760834887~exp=1760921287~acl=/*~hmac=3f58e4047983e552efdf01aca0d3fdeca33da97a034df5ae32b504471f6f69da
+https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd?%7Ccookie=__hdnea__=st=1762994669~exp=1763081069~acl=/*~hmac=a13bf6e14b58bf20f17685955027bd34de56fee9638c41b130f1e79eee95ae9b&xxx=%7Ccookie=__hdnea__=st=1762994669~exp=1763081069~acl=/*~hmac=a13bf6e14b58bf20f17685955027bd34de56fee9638c41b130f1e79eee95ae9b
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",hk
