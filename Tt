@@ -1,6 +1,55 @@
 
+#EXTINF:0, group-title="Tamil",TEN 1
+https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",TEN 2
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",TEN 3
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",TEN 4 tam
+https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",TEN 5
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",TEN 4 tel
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",EARTH
+https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",PIX HD
+https://dishmt.slivcdn.com/hls/live/2011748-b/PIXHD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",Max HD
+https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",ten1
+https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",ten2
+https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",ten3
+https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",ten5
+https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",yay
+https://dishmt.slivcdn.com/hls/live/2011746-b/SonyYaySD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",Max
+https://dishmt.slivcdn.com/hls/live/2011745-b/SonyMaxSD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",max2
+https://dishmt.slivcdn.com/hls/live/2011908-b/MAX2/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",SONY SET HD
+https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",SONY SAB HD
+https://dishmt.slivcdn.com/hls/live/2011749-b/SABHD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",SONY MARATHI
+https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",SONY PAL
+https://dishmt.slivcdn.com/hls/live/2011741-b/SonyPalSD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",SONY WAH
+https://dishmt.slivcdn.com/hls/live/2011906-b/SonyWah/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+#EXTINF:0, group-title="Tamil",aath
+https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/hdntl=exp=1763083281~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a2cfb454b74a2c27ae4047f82fa7e03341bbb3bf2b3dafd045b5573e73c73222/master_3500.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",hk
 https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1762764102~acl=%2f*~id=48204b0390cc49888b8507685173f43c-1755427161715~data=hdntl~hmac=a1945f66fa9de59e65c68238f0f7082c1457cb4f62baf04c451040456df68dc2/master_3500.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",m1
